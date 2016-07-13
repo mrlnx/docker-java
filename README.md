@@ -1,2 +1,2 @@
-# docker-java
-Docker java respository
+# Docker JVM8/Spring repository
+Docker JVM8/Spring respository
